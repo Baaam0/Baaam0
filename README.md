@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=appveyor&logo=next.js&logoColor=white"/>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-blue?style=appveyor&logo=react&logoColor=white"/>
 <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-646568?style=appveyor&logo=kaggle&logoColor=5bbcf9"/>
-<a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-646568?style=appveyor&logo=kaggle&logoColor=5bbcf9"/>
+<a href="#"><img alt="Expo" src="https://img.shields.io/badge/Expo-black?style=appveyor&logo=expo&logoColor=white"/>
 <br>
 </p>
 
