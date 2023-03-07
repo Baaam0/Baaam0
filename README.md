@@ -17,16 +17,7 @@ Here are some ideas to get you started:
 
 ## 
 
-<p align="center">
-  <picture>
-    <source
-      width="150px"
-      media="(prefers-color-scheme: dark)"
-      srcset="https://user-images.githubusercontent.com/13122796/212184682-217c94b7-7947-4677-b1ea-bf91b071b699.svg"
-    >
-    <img 
-      width="150px"
-      src="https://user-images.githubusercontent.com/13122796/212184689-a828ef2f-578d-4893-ae2d-7b1aa7e9b0fd.svg"
-    >
-  </picture>
+<h2>🔨 Technologies & Tools</h2>
+<p>
+  <a href="https://github.com/search?q=user%3Amszucseducation+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
 </p>
