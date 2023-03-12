@@ -4,8 +4,10 @@
 - 🔭 I’m currently working on my portfolio as UI/UX Designer 
 - 🌱 I’m currently learning frontend developing with next.js 
 - 📫 How to reach me: minyoungbae0308@gmail.com
+<br>
 
 ![Minyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=baaam0&theme=transparent&show_icons=true&count_private=true&hide_rank=false&ring_color=ef95ab&title_color=295081&text_color=464e58&icon_color=ef95ab)
+<br>
 
 <h2>🔨 Technologies & Tools</h2>
 <p>
