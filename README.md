@@ -28,3 +28,14 @@ Here are some ideas to get you started:
 <br>
 </p>
 
+## Languages
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" width="26px" src="https://github.com/Baaam0/Baaam0/blob/ad4384131695b0c144df435674c163978dc48495/images/css3.png"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="Html" width="26px" src="https://github.com/Baaam0/Baaam0/blob/ad4384131695b0c144df435674c163978dc48495/images/html5.png"/> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="Javascript" width="26px" src="https://github.com/Baaam0/Baaam0/blob/ad4384131695b0c144df435674c163978dc48495/images/javascript.png"/> </a>
+
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next-js" width="32px" src="https://github.com/Baaam0/Baaam0/blob/ad4384131695b0c144df435674c163978dc48495/images/next-js.png"/> </a>
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" width="33px" src="https://github.com/Baaam0/Baaam0/blob/ad4384131695b0c144df435674c163978dc48495/images/react.png"/> </a>
+
